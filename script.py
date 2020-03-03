@@ -6,6 +6,7 @@ print("ma mère c'est la meilleure")
 print("mon père c'est la basegit")
 print("bonjour à tousgi")
 print("Voici ma version")
-red(rd(ed))
+# red(rd(ed))
 
 print("c'est matt")
+print("0.1")
